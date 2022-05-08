@@ -14,6 +14,7 @@
 #include <pwd.h>
 #include <grp.h>
 #include <sys/types.h>
+#include <cstring>
 
 
 using namespace std;
